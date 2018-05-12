@@ -1,0 +1,32 @@
+_repo: The-Makers-of-Canada--Champlain_17132
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dionne, N.-E. (Narcisse-Eutrope)
+    aliases:
+    - Dionne, Narcisse Eutrope
+    - Dionne, Narcisse-Eutrope
+    birthdate: 1848
+    deathdate: 1917
+    gutenberg_agent_id: '7155'
+    url: http://www.gutenberg.org/2009/agents/7155
+    wikipedia: https://fr.wikipedia.org/wiki/Narcisse-Eutrope_Dionne
+description: ''
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2005-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- !lcsh 'Champlain, Samuel de, 1567-1635'
+title: 'The Makers of Canada: Champlain'
+url: http://www.gutenberg.org/ebooks/17132
